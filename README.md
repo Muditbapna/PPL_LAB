@@ -4,4 +4,4 @@
 
 <b> List of experiment   </b>
 
-Experiment  1: Hello world
+<i> Experiment  1: Hello world </i>
